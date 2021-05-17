@@ -15,6 +15,10 @@ const app = new Vue(
             anno: "0000",
             classColor: "red",
 
+            // bonus
+            prefix: "./asset/img/",
+            address: "monitor.jpg",
+
 
 
 
